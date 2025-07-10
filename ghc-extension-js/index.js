@@ -39,7 +39,7 @@ app.post("/copilot", express.json(), async (req, res) => {
     path.join(__dirname, "agent-knowledge", "job-description.md"),
     "utf8"
   );
-  messages.unshift({
+  messages.push({
     role: "system",
     content: jobDescription,
   });
