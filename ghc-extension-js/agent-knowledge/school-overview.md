@@ -21,4 +21,4 @@ This is overview of the high school so instructors can more naturally describe t
 
 ### History
 
-The school was founded in 2008 and has with only 4 staff members.
+The school was founded in 2008 with only 4 staff members.
