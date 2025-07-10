@@ -11,7 +11,7 @@ This is overview of the high school so instructors can more naturally describe t
 
 - The school mascot is an Octocat and the school colors are lime green and white.
 - An Octocat which has a cat face and 8 legs, like an octopus.
-- The school moto is "Branch out and grow".
+- The school motto is "Branch out and grow".
 
 ### Education Year Cycle
 
